@@ -1,0 +1,347 @@
+codigo,comuna,provincia,region,poblacion,casos_20200330,casos_20200401,casos_20200403,casos_20200406
+15101,Arica,Arica,Arica y Parinacota,221364,6,6,12,41
+15102,Camarones,Arica,Arica y Parinacota,1255,,,,
+15201,Putre,Parinacota,Arica y Parinacota,2765,,,,
+15202,General Lagos,Parinacota,Arica y Parinacota,684,,,,
+1101,Iquique,Iquique,Tarapacá,191468,5,9,10,13
+1107,Alto Hospicio,Iquique,Tarapacá,108375,,1,3,5
+1401,Pozo Almonte,Tamarugal,Tarapacá,15711,,,,2
+1402,Camiña,Tamarugal,Tarapacá,125,,,,
+1403,Colchane,Tamarugal,Tarapacá,1728,,,,
+1404,Huara,Tamarugal,Tarapacá,273,,,,
+1405,Pica,Tamarugal,Tarapacá,9296,,,,1
+2101,Antofagasta,Antofagasta,Antofagasta,361873,29,32,44,54
+2102,Mejillones,Antofagasta,Antofagasta,13467,,,,1
+2103,Sierra Gorda,Antofagasta,Antofagasta,10186,,,,
+2104,Taltal,Antofagasta,Antofagasta,13317,,,,
+2201,Calama,El Loa,Antofagasta,165731,,3,5,7
+2202,Ollagüe,El Loa,Antofagasta,321,,,,
+2203,San Pedro de Atacama,El Loa,Antofagasta,10996,,2,3,4
+2301,Tocopilla,Tocopilla,Antofagasta,25186,,2,2,2
+2302,María Elena,Tocopilla,Antofagasta,6457,,,,
+3101,Copiapó,Copiapó,Atacama,153937,,2,4,4
+3102,Caldera,Copiapó,Atacama,17662,,,,
+3103,Tierra Amarilla,Copiapó,Atacama,14019,,,,
+3201,Chañaral,Chañaral,Antofagasta,12219,,,,
+3202,Diego de Almagro,Chañaral,Atacama,13925,,1,1,1
+3301,Vallenar,Huasco,Atacama,51917,,,,
+3302,Alto del Carmen,Huasco,Atacama,5299,,,,
+3303,Freirina,Huasco,Atacama,7041,,,,
+3304,Huasco,Huasco,Atacama,10149,,,,
+4101,La Serena,Elqui,Coquimbo,221054,,3,8,12
+4102,Coquimbo,Elqui,Coquimbo,22773,17,19,19,19
+4103,Andacollo,Elqui,Coquimbo,11044,,,,
+4104,La Higuera,Elqui,Coquimbo,4241,,,,
+4105,Paiguano,Elqui,Coquimbo,4497,,,,
+4106,Vicuña,Elqui,Coquimbo,27771,,,,
+4201,Illapel,Choapa,Coquimbo,30848,,,,7
+4202,Canela,Choapa,Coquimbo,9093,,,,
+4203,Los Vilos,Choapa,Coquimbo,21382,,1,1,1
+4204,Salamanca,Choapa,Coquimbo,29347,,2,2,4
+4301,Ovalle,Limarí,Coquimbo,111272,4,4,4,7
+4302,Combarbala,Limarí,Coquimbo,13322,,,,
+4303,Monte Patria,Limarí,Coquimbo,30751,,,,
+4304,Punitaqui,Limarí,Coquimbo,10956,,,,
+4305,Río Hurtado,Limarí,Coquimbo,4278,,1,1,1
+5101,Valparaíso,Valparaíso,Valparaíso,296655,16,26,23,26
+5102,Casablanca,Valparaíso,Valparaíso,26867,,1,2,3
+5103,Concón,Valparaíso,Valparaíso,42152,,1,7,7
+5104,Juan Fernández,Valparaíso,Valparaíso,926,,,,
+5105,Puchuncaví,Valparaíso,Valparaíso,18546,,,,
+5107,Quintero,Valparaíso,Valparaíso,31923,,3,2,2
+5109,Viña del Mar,Valparaíso,Valparaíso,334248,29,38,47,53
+5201,Isla de Pascua,Isla de Pascua,Valparaíso,775,,5,5,5
+5301,Los Andes,Los Andes,Valparaíso,66708,,3,2,2
+5302,Calle Larga,Los Andes,Valparaíso,14832,,,2,2
+5303,Rinconada,Los Andes,Valparaíso,10207,,,,
+5304,San Esteban,Los Andes,Valparaíso,18855,,,,
+5401,La Ligua,Petorca,Valparaíso,3539,,2,2,2
+5402,Cabildo,Petorca,Valparaíso,19388,,,,
+5403,Papudo,Petorca,Valparaíso,6356,,,1,1
+5404,Petorca,Petorca,Valparaíso,9826,,1,1,5
+5405,Zapallar,Petorca,Valparaíso,7339,,,,
+5501,Quillota,Quillota,Valparaíso,90517,6,7,9,9
+5502,Calera,Quillota,Valparaíso,50554,6,6,7,7
+5503,Hijuelas,Quillota,Valparaíso,17988,,,,
+5504,La Cruz,Quillota,Valparaíso,22098,,1,3,3
+5506,Nogales,Quillota,Valparaíso,2212,,,,
+5601,San Antonio,San Antonio,Valparaíso,9135,,4,8,9
+5602,Algarrobo,San Antonio,Valparaíso,13817,7,7,9,9
+5603,Cartagena,San Antonio,Valparaíso,22738,,,,1
+5604,El Quisco,San Antonio,Valparaíso,15955,,,1,1
+5605,El Tabo,San Antonio,Valparaíso,13286,,1,3,3
+5606,Santo Domingo,San Antonio,Valparaíso,109,,3,1,2
+5701,San Felipe,San Felipe de Aconcagua,Valparaíso,76844,,3,5,5
+5702,Catemu,San Felipe de Aconcagua,Valparaíso,13998,,,,
+5703,Llaillay,San Felipe de Aconcagua,Valparaíso,24608,,,1,2
+5704,Panquehue,San Felipe de Aconcagua,Valparaíso,7273,,,,
+5705,Putaendo,San Felipe de Aconcagua,Valparaíso,16754,,1,1,1
+5706,Santa María,San Felipe de Aconcagua,Valparaíso,15241,,2,2,2
+5801,Quilpué,Marga Marga,Valparaíso,151708,11,10,11,12
+5802,Limache,Marga Marga,Valparaíso,46121,,3,3,4
+5803,Olmué,Marga Marga,Valparaíso,17516,,,,
+5804,Villa Alemana,Marga Marga,Valparaíso,126548,6,8,11,11
+6101,Rancagua,Cachapoal,Libertador General Bernardo O'Higgins,241774,7,7,9,15
+6102,Codegua,Cachapoal,Libertador General Bernardo O'Higgins,12988,,,,
+6103,Coinco,Cachapoal,Libertador General Bernardo O'Higgins,7359,,,,
+6104,Coltauco,Cachapoal,Libertador General Bernardo O'Higgins,19597,,,,
+6105,Doñihue,Cachapoal,Libertador General Bernardo O'Higgins,20887,,,,
+6106,Graneros,Cachapoal,Libertador General Bernardo O'Higgins,33437,,,,
+6107,Las Cabras,Cachapoal,Libertador General Bernardo O'Higgins,2464,,,,
+6108,Machalí,Cachapoal,Libertador General Bernardo O'Higgins,52505,,6,7,8
+6109,Malloa,Cachapoal,Libertador General Bernardo O'Higgins,13407,,,,
+6110,Mostazal,Cachapoal,Libertador General Bernardo O'Higgins,25343,,,,
+6111,Olivar,Cachapoal,Libertador General Bernardo O'Higgins,13608,,1,2,2
+6112,Peumo,Cachapoal,Libertador General Bernardo O'Higgins,14313,,,,1
+6113,Pichidegua,Cachapoal,Libertador General Bernardo O'Higgins,19714,,,,
+6114,Quinta de Tilcoco,Cachapoal,Libertador General Bernardo O'Higgins,13002,,2,2,2
+6115,Rengo,Cachapoal,Libertador General Bernardo O'Higgins,58825,,1,1,1
+6116,Requínoa,Cachapoal,Libertador General Bernardo O'Higgins,27968,,1,1,1
+6117,San Vicente,Cachapoal,Libertador General Bernardo O'Higgins,46766,,1,4,4
+6201,Pichilemu,Cardenal Caro,Libertador General Bernardo O'Higgins,16394,,,,
+6202,La Estrella,Cardenal Caro,Libertador General Bernardo O'Higgins,3041,,,,
+6203,Litueche,Cardenal Caro,Libertador General Bernardo O'Higgins,6294,,,,
+6204,Marchihue,Cardenal Caro,Libertador General Bernardo O'Higgins,7308,,,,
+6205,Navidad,Cardenal Caro,Libertador General Bernardo O'Higgins,6641,,,,
+6206,Paredones,Cardenal Caro,Libertador General Bernardo O'Higgins,6188,,,,
+6301,San Fernando,Colchagua,Libertador General Bernardo O'Higgins,73973,,4,4,4
+6302,Chépica,Colchagua,Libertador General Bernardo O'Higgins,15037,,,,
+6303,Chimbarongo,Colchagua,Libertador General Bernardo O'Higgins,35399,,2,2,2
+6304,Lolol,Colchagua,Libertador General Bernardo O'Higgins,6811,,,,
+6305,Nancagua,Colchagua,Libertador General Bernardo O'Higgins,17833,,,,
+6306,Palmilla,Colchagua,Libertador General Bernardo O'Higgins,12482,,,,
+6307,Peralillo,Colchagua,Libertador General Bernardo O'Higgins,11007,,,,
+6308,Placilla,Colchagua,Libertador General Bernardo O'Higgins,8738,,1,1,1
+6309,Pumanque,Colchagua,Libertador General Bernardo O'Higgins,3421,,,,
+6310,Santa Cruz,Colchagua,Libertador General Bernardo O'Higgins,37855,,,,1
+7101,Talca,Talca,Maule,220357,34,37,42,48
+7102,Constitución,Talca,Maule,46068,,1,3,3
+7103,Curepto,Talca,Maule,9448,,,,
+7104,Empedrado,Talca,Maule,4142,,,,
+7105,Maule,Talca,Maule,49721,,2,2,2
+7106,Pelarco,Talca,Maule,8422,,,,
+7107,Pencahue,Talca,Maule,8245,,,,
+7108,Río Claro,Talca,Maule,13906,,1,1,1
+7109,San Clemente,Talca,Maule,43269,,,,
+7110,San Rafael,Talca,Maule,9191,,,1,1
+7201,Cauquenes,Cauquenes,Maule,40441,,1,3,4
+7202,Chanco,Cauquenes,Maule,8928,,,,
+7203,Pelluhue,Cauquenes,Maule,7571,,1,1,1
+7301,Curicó,Curicó,Maule,149136,6,8,11,13
+7302,Hualañé,Curicó,Maule,9657,,,,
+7303,Licantén,Curicó,Maule,6653,,,,
+7304,Molina,Curicó,Maule,45976,,3,3,3
+7305,Rauco,Curicó,Maule,10484,,,1,1
+7306,Romeral,Curicó,Maule,15187,,2,2,2
+7307,Sagrada Familia,Curicó,Maule,18544,,,,1
+7308,Teno,Curicó,Maule,28921,,,,
+7309,Vichuquén,Curicó,Maule,4322,,,,
+7401,Linares,Linares,Maule,93602,4,6,10,11
+7402,Colbún,Linares,Maule,20765,,4,4,5
+7403,Longaví,Linares,Maule,30534,,1,1,2
+7404,Parral,Linares,Maule,41637,4,3,3,3
+7405,Retiro,Linares,Maule,19974,,,,
+7406,San Javier,Linares,Maule,45547,,1,1,7
+7407,Villa Alegre,Linares,Maule,16221,,,,
+7408,Yerbas Buenas,Linares,Maule,18081,,,,
+8101,Concepción,Concepción,Bío-Bío,223574,28,47,53,70
+8102,Coronel,Concepción,Bío-Bío,116262,,11,12,13
+8103,Chiguayante,Concepción,Bío-Bío,85938,6,18,26,32
+8104,Florida,Concepción,Bío-Bío,10624,,,2,2
+8105,Hualqui,Concepción,Bío-Bío,24333,,3,3,7
+8106,Lota,Concepción,Bío-Bío,43535,,,1,1
+8107,Penco,Concepción,Bío-Bío,47367,,1,3,5
+8108,San Pedro de La Paz,Concepción,Bío-Bío,131808,18,50,56,63
+8109,Santa Juana,Concepción,Bío-Bío,13749,,,,
+8110,Talcahuano,Concepción,Bío-Bío,151749,,23,29,36
+8111,Tomé,Concepción,Bío-Bío,54946,4,6,9,25
+8112,Hualpén,Concepción,Bío-Bío,91773,,39,50,67
+8201,Lebu,Arauco,Bío-Bío,25522,,,,
+8202,Arauco,Arauco,Bío-Bío,36257,,5,6,6
+8203,Cañete,Arauco,Bío-Bío,34537,,,,
+8204,Contulmo,Arauco,Bío-Bío,6031,,,,
+8205,Curanilahue,Arauco,Bío-Bío,32288,,1,1,1
+8206,Los Álamos,Arauco,Bío-Bío,21035,,,,
+8207,Tirúa,Arauco,Bío-Bío,10417,,,2,4
+8301,Los Ángeles,Biobío,Bío-Bío,202331,11,15,12,17
+8302,Antuco,Biobío,Bío-Bío,4073,,,,
+8303,Cabrero,Biobío,Bío-Bío,28573,,,1,1
+8304,Laja,Biobío,Bío-Bío,22389,,2,3,5
+8305,Mulchén,Biobío,Bío-Bío,29627,,5,5,5
+8306,Nacimiento,Biobío,Bío-Bío,26315,,2,2,2
+8307,Negrete,Biobío,Bío-Bío,9737,,,,1
+8308,Quilaco,Biobío,Bío-Bío,3988,,,,
+8309,Quilleco,Biobío,Bío-Bío,9587,,,,
+8310,San Rosendo,Biobío,Bío-Bío,3412,,,,
+8311,Santa Bárbara,Biobío,Bío-Bío,13773,,2,2,2
+8312,Tucapel,Biobío,Bío-Bío,14134,,,,
+8313,Yumbel,Biobío,Bío-Bío,21198,5,5,5,5
+8314,Alto Biobío,Biobío,Bío-Bío,5923,,,,
+9101,Temuco,Cautín,Araucanía,282415,154,225,293,365
+9102,Carahue,Cautín,Araucanía,24533,,2,2,3
+9103,Cunco,Cautín,Araucanía,17526,,,,5
+9104,Curarrehue,Cautín,Araucanía,7489,,2,3,3
+9105,Freire,Cautín,Araucanía,24606,,2,5,5
+9106,Galvarino,Cautín,Araucanía,11996,,1,1,2
+9107,Gorbea,Cautín,Araucanía,14414,4,6,7,10
+9108,Lautaro,Cautín,Araucanía,38013,,8,10,16
+9109,Loncoche,Cautín,Araucanía,23612,,2,4,4
+9110,Melipeuco,Cautín,Araucanía,6138,,,,
+9111,Nueva Imperial,Cautín,Araucanía,3251,,2,11,16
+9112,Padre Las Casas,Cautín,Araucanía,76126,9,14,33,44
+9113,Perquenco,Cautín,Araucanía,6905,,1,2,1
+9114,Pitrufquén,Cautín,Araucanía,24837,4,6,7,11
+9115,Pucón,Cautín,Araucanía,28523,,3,3,4
+9116,Saavedra,Cautín,Araucanía,1245,,,1,1
+9117,Teodoro Schmidt,Cautín,Araucanía,15045,,4,2,3
+9118,Toltén,Cautín,Araucanía,9722,,3,4,5
+9119,Vilcún,Cautín,Araucanía,28151,4,5,11,18
+9120,Villarrica,Cautín,Araucanía,55478,,4,6,11
+9121,Cholchol,Cautín,Araucanía,11611,,2,3,2
+9201,Angol,Malleco,Araucanía,53262,7,13,12,15
+9202,Collipulli,Malleco,Araucanía,24598,,,,
+9203,Curacautín,Malleco,Araucanía,17413,,,,2
+9204,Ercilla,Malleco,Araucanía,7733,,,,
+9205,Lonquimay,Malleco,Araucanía,10251,,,,
+16201,Quirihue,Itata,Ñuble,11594,,,,1
+16202,Cobquecura,Itata,Ñuble,5012,,,,
+16203,Coelemu,Itata,Ñuble,15995,,1,2,3
+16204,Ninhue,Itata,Ñuble,5213,,,,
+16205,Portezuelo,Itata,Ñuble,4862,,,,
+16206,Ránquil,Itata,Ñuble,5755,,1,5,7
+16207,Treguaco,Itata,Ñuble,5401,,,,
+9206,Los Sauces,Malleco,Araucanía,7265,,,,
+9207,Lumaco,Malleco,Araucanía,9548,,,,
+9208,Purén,Malleco,Araucanía,11779,,1,1,2
+9209,Renaico,Malleco,Araucanía,1025,,,,
+9210,Traiguén,Malleco,Araucanía,18843,,,,
+9211,Victoria,Malleco,Araucanía,34182,5,7,11,12
+14101,Valdivia,Valdivia,Los Ríos,16608,12,45,47,65
+14102,Corral,Valdivia,Los Ríos,5302,,,,
+14103,Lanco,Valdivia,Los Ríos,16752,,1,1,2
+14104,Los Lagos,Valdivia,Los Ríos,19634,,,,
+14105,Máfil,Valdivia,Los Ríos,7095,,1,1,1
+14106,Mariquina,Valdivia,Los Ríos,21278,,2,3,6
+14107,Paillaco,Valdivia,Los Ríos,20188,,1,1,1
+14108,Panguipulli,Valdivia,Los Ríos,34539,,,,
+14201,La Unión,Ranco,Los Ríos,38036,,9,10,17
+14202,Futrono,Ranco,Los Ríos,14665,,2,2,5
+14203,Lago Ranco,Ranco,Los Ríos,9896,,1,1,2
+14204,Río Bueno,Ranco,Los Ríos,31372,,2,2,5
+10101,Puerto Montt,Llanquihue,Los Lagos,245902,34,44,25,35
+10102,Calbuco,Llanquihue,Los Lagos,33985,4,5,5,5
+10103,Cochamó,Llanquihue,Los Lagos,4023,,,,
+10104,Fresia,Llanquihue,Los Lagos,12261,,,,
+10105,Frutillar,Llanquihue,Los Lagos,18428,,,1,3
+10106,Los Muermos,Llanquihue,Los Lagos,17068,,1,1,1
+10107,Llanquihue,Llanquihue,Los Lagos,17591,,,,
+10108,Maullín,Llanquihue,Los Lagos,14216,,,,
+10109,Puerto Varas,Llanquihue,Los Lagos,44578,,1,2,4
+10201,Castro,Chiloé,Los Lagos,43807,,1,1,4
+10202,Ancud,Chiloé,Los Lagos,38991,,,,
+10203,Chonchi,Chiloé,Los Lagos,14858,,,,
+10204,Curaco de Vélez,Chiloé,Los Lagos,3829,,,,
+10205,Dalcahue,Chiloé,Los Lagos,13762,,,,
+10206,Puqueldón,Chiloé,Los Lagos,3921,,,,
+10207,Queilén,Chiloé,Los Lagos,5385,,,,
+10208,Quellón,Chiloé,Los Lagos,27192,,,,
+10209,Quemchi,Chiloé,Los Lagos,8352,,,,
+10210,Quinchao,Chiloé,Los Lagos,8088,,1,1,1
+10301,Osorno,Osorno,Los Lagos,16146,66,120,163,190
+10302,Puerto Octay,Osorno,Los Lagos,8999,,1,1,1
+10303,Purranque,Osorno,Los Lagos,20369,,1,5,5
+10304,Puyehue,Osorno,Los Lagos,11667,,1,1,1
+10305,Río Negro,Osorno,Los Lagos,14085,,,1,1
+10306,San Juan de la Costa,Osorno,Los Lagos,7512,,,,7
+10307,San Pablo,Osorno,Los Lagos,1003,,1,2,2
+10401,Chaitén,Palena,Los Lagos,5071,,1,1,1
+10402,Futaleufú,Palena,Los Lagos,2623,,,,
+10403,Hualaihué,Palena,Los Lagos,8944,,3,3,3
+10404,Palena,Palena,Los Lagos,1711,,,,
+11101,Coihaique,Coihaique,Aysén,57818,,2,2,1
+11102,Lago Verde,Coihaique,Aysén,852,,,,
+11201,Aysén,Aysén,Aysén,23959,,1,4,5
+11202,Cisnes,Aysén,Aysén,6517,,,,
+11203,Guaitecas,Aysén,Aysén,1843,,,,
+11301,Cochrane,Capitán Prat,Aysén,349,,,,
+11302,O'Higgins,Capitán Prat,Aysén,625,,,,
+11303,Tortel,Capitán Prat,Aysén,523,,,,
+11401,Chile Chico,General Carrera,Aysén,4865,,,,1
+11402,Río Ibáñez,General Carrera,Aysén,2666,,,,
+12101,Punta Arenas,Magallanes,Magallanes y Antártica Chilena,131592,29,87,143,203
+12102,Laguna Blanca,Magallanes,Magallanes y Antártica Chilena,274,,,,
+12103,Río Verde,Magallanes,Magallanes y Antártica Chilena,617,,,,
+12104,San Gregorio,Magallanes,Magallanes y Antártica Chilena,799,,,,
+12201,Cabo de Hornos,Antártica Chilena,Magallanes y Antártica Chilena,2063,5,6,6,10
+12202,Antártica,Antártica Chilena,Magallanes y Antártica Chilena,138,,,,
+12301,Porvenir,Tierra del Fuego,Magallanes y Antártica Chilena,6801,,2,2,3
+12302,Primavera,Tierra del Fuego,Magallanes y Antártica Chilena,1158,,,,
+12303,Timaukel,Tierra del Fuego,Magallanes y Antártica Chilena,405,,,,
+12401,Natales,Última Esperanza,Magallanes y Antártica Chilena,21477,,4,5,5
+12402,Torres del Paine,Última Esperanza,Magallanes y Antártica Chilena,1209,,,,
+13101,Santiago,Santiago,Región Metropolitana,404495,127,156,173,234
+13102,Cerrillos,Santiago,Región Metropolitana,80832,,,,
+13103,Cerro Navia,Santiago,Región Metropolitana,132622,,,,
+13104,Conchalí,Santiago,Región Metropolitana,126955,14,18,22,32
+13105,El Bosque,Santiago,Región Metropolitana,162505,18,28,35,37
+13106,Estación Central,Santiago,Región Metropolitana,147041,16,22,25,36
+13107,Huechuraba,Santiago,Región Metropolitana,98671,17,19,22,32
+13108,Independencia,Santiago,Región Metropolitana,100281,15,17,22,26
+13109,La Cisterna,Santiago,Región Metropolitana,90119,10,12,12,20
+13110,La Florida,Santiago,Región Metropolitana,366916,43,58,67,91
+13111,La Granja,Santiago,Región Metropolitana,116571,5,8,16,24
+13112,La Pintana,Santiago,Región Metropolitana,177335,,10,13,18
+13113,La Reina,Santiago,Región Metropolitana,92787,24,26,30,35
+13114,Las Condes,Santiago,Región Metropolitana,294838,181,208,224,258
+13115,Lo Barnechea,Santiago,Región Metropolitana,105833,68,78,85,97
+13116,Lo Espejo,Santiago,Región Metropolitana,98804,4,7,9,15
+13117,Lo Prado,Santiago,Región Metropolitana,96249,14,18,20,25
+13118,Macul,Santiago,Región Metropolitana,116534,10,15,23,34
+13119,Maipú,Santiago,Región Metropolitana,521627,43,55,64,83
+13120,Ñuñoa,Santiago,Región Metropolitana,208237,67,84,93,107
+13121,Pedro Aguirre Cerda,Santiago,Región Metropolitana,101174,7,13,13,16
+13122,Peñalolén,Santiago,Región Metropolitana,241599,31,46,54,65
+13123,Providencia,Santiago,Región Metropolitana,142079,82,87,94,104
+13124,Pudahuel,Santiago,Región Metropolitana,230293,17,25,32,44
+13125,Quilicura,Santiago,Región Metropolitana,21041,17,29,33,51
+13126,Quinta Normal,Santiago,Región Metropolitana,110026,21,25,35,41
+13127,Recoleta,Santiago,Región Metropolitana,157851,17,23,32,44
+13128,Renca,Santiago,Región Metropolitana,147151,9,14,18,19
+13129,San Joaquín,Santiago,Región Metropolitana,94492,13,24,28,36
+13130,San Miguel,Santiago,Región Metropolitana,107954,25,32,39,49
+13131,San Ramón,Santiago,Región Metropolitana,829,,6,9,9
+13132,Vitacura,Santiago,Región Metropolitana,85384,83,90,100,114
+13201,Puente Alto,Cordillera,Región Metropolitana,568106,45,58,76,119
+13202,Pirque,Cordillera,Región Metropolitana,26521,,2,2,4
+13203,San José de Maipo,Cordillera,Región Metropolitana,18189,,2,2,3
+13301,Colina,Chacabuco,Región Metropolitana,146207,32,39,47,50
+13302,Lampa,Chacabuco,Región Metropolitana,102034,10,10,13,14
+13303,Tiltil,Chacabuco,Región Metropolitana,19312,,2,3,3
+13401,San Bernardo,Maipo,Región Metropolitana,301313,32,41,53,74
+13402,Buin,Maipo,Región Metropolitana,96614,,,,
+13403,Calera de Tango,Maipo,Región Metropolitana,25392,,,,
+13404,Paine,Maipo,Región Metropolitana,72759,,3,3,3
+13501,Melipilla,Melipilla,Región Metropolitana,123627,6,8,9,11
+13502,Alhué,Melipilla,Región Metropolitana,6444,,,,
+13503,Curacaví,Melipilla,Región Metropolitana,32579,5,5,5,8
+13504,María Pinto,Melipilla,Región Metropolitana,1359,,,,
+13505,San Pedro,Melipilla,Región Metropolitana,9726,,,,
+13601,Talagante,Talagante,Región Metropolitana,74237,,5,6,11
+13602,El Monte,Talagante,Región Metropolitana,35923,,1,2,5
+13603,Isla de Maipo,Talagante,Región Metropolitana,36219,,1,1,4
+13604,Padre Hurtado,Talagante,Región Metropolitana,6325,10,11,14,16
+13605,Peñaflor,Talagante,Región Metropolitana,90201,10,13,13,18
+16301,San Carlos,Punilla,Ñuble,53024,8,13,13,19
+16302,Coihueco,Punilla,Ñuble,26881,,3,3,6
+16303,Ñiquén,Punilla,Ñuble,11152,,,,
+16304,San Fabián,Punilla,Ñuble,4308,,5,6,6
+16305,San Nicolás,Punilla,Ñuble,11603,,2,4,10
+16102,Bulnes,Diguillín,Ñuble,21493,12,18,32,36
+16104,El Carmen,Diguillín,Ñuble,12044,,2,2,2
+16105,Pemuco,Diguillín,Ñuble,8448,,,,2
+16106,Pinto,Diguillín,Ñuble,10827,,2,6,9
+16107,Quillón,Diguillín,Ñuble,17485,4,7,15,17
+16108,San Ignacio,Diguillín,Ñuble,16079,,1,3,6
+16109,Yungay,Diguillín,Ñuble,17787,,7,10,26
+16101,Chillán,Diguillín,Ñuble,184739,114,173,240,291
+16103,Chillán Viejo,Diguillín,Ñuble,30907,13,22,26,30
